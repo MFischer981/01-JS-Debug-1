@@ -1,16 +1,3 @@
-/*    C201 - Back-end Programming
- *    Project 01_06_01
-
- *    Variables and functions
- *    
- *    Author: Mark J. Buckler
- *    Date:   July 14, 2017
-
- *    Filename: script.js
- */
-
-"use strict";
-
 /* global variables */
 var formValidity = true;
 
